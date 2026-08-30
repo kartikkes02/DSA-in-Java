@@ -1,7 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "10-ArrayList"
+        "10-ArrayList",
+        "11-LinkedList"
     ],
     "java.project.outputPath": "bin",
     "java.autobuild.enabled": true
